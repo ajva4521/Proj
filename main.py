@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 from mymath.advanced import add, sub, mul, div, pow, modulo
 from mymath.factorial import factorial
-from mymath.fibonacci import fibonacci_1
+from mymath.fibonacci import fibonacci
 a=input("Zadej čislo a:")
 a = int(a)
 b=0
@@ -38,5 +38,5 @@ print(r)
 
 print("mňau")
 
-result = fibonacci_1(n)
+result = fibonacci(n)
 print(result)
