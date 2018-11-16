@@ -24,4 +24,10 @@ mul_of_list  = 1
 for i in a:
     mul_of_list *= i
 
-print(mul_of_list)    
+print(mul_of_list)
+
+
+sub_of_list = a[0] + a[0]
+for i in a:
+    sub_of_list -= i
+print(sub_of_list)    
