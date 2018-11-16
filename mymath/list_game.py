@@ -18,3 +18,10 @@ for i in a:
         div_of_list /= i
 
 print(div_of_list)
+
+
+mul_of_list  = 1
+for i in a:
+    mul_of_list *= i
+
+print(mul_of_list)    
