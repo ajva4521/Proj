@@ -9,7 +9,7 @@ def sieve(n):
 sieve(10000)
 
 
-
+kotata/pumata
 
 '''
 

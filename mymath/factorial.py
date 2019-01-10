@@ -6,3 +6,6 @@ def factorial(a):
         r = r * a
         a = a - 1
     return r
+
+
+print(r)

@@ -30,4 +30,4 @@ print(mul_of_list)
 sub_of_list = a[0] + a[0]
 for i in a:
     sub_of_list -= i
-print(sub_of_list)    
+print(sub_of_list)

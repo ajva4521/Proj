@@ -40,3 +40,6 @@ print("mňau")
 
 result = fibonacci(n)
 print(result)
+
+a=4
+print(factorial)
